@@ -1,0 +1,12 @@
+{
+  "name": "damon-db-2026",
+  "version": "0.0.1",
+  "description": "Website for DaMoN 2026 Workshop",
+  "author": "damondb",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^7.0.2",
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1"
+  }
+}
