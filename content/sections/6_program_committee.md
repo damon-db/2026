@@ -31,4 +31,18 @@ theme: "damon-dark"
 </div>
 
 ## Members
-TBD
+- Azim Afroozeh, CWI, Netherlands
+- Anastasia Ailamaki, EPFL, Switzerland
+- Beng Chin Ooi, Zhejiang University, China
+- Yannis Chronis, ETHZ, Switzerland
+- Muhammad El-Hindi, TUM, Germany
+- Matteo Interlandi, Microsoft, USA 
+- Norman May, SAP, Germany
+- Kwanghyun Park, Yonsei University, Korea
+- Danica Porobic, Oracle, Switzerland
+- Kenneth Ross, Columbia University, USA
+- Evangelia Sitaridi, NVIDIA, USA
+- Nesime Tatbul, Intel Labs and MIT, USA
+- Pinar Tözün, IT University of Copenhagen, Denmark
+- Tianzheng Wang, Simon Fraser University, Canada
+- Huanchen Zhang, Tsinghua University, China
