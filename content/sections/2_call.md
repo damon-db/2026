@@ -45,7 +45,7 @@ This year all accepted DaMoN papers will be considered for a **best paper award*
 We intend to invite extended versions of a selection of DaMoN'26 papers for submission to the VLDB Journal. Extended papers that are accepted to the VLDB Journal will appear in a special section ("Best of DaMoN 2026") within one of the regular VLDBJ issues.
 
 ## Important Dates
-Paper submission:  February 16th, 2026 (11:59pm AoE)
+Paper submission:  ~~February 16th, 2026~~ February 20th, 2026 (11:59pm AoE)
 
 Notification of acceptance: March 30th, 2026 (11:59pm AoE)
 
