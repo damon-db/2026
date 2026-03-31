@@ -11,12 +11,10 @@ disableKinds = ["taxonomy", ]
 #    large = "logo/DaMon_logo_20yrs.png"
   [params.banner]
     image = "img/title_Bengaluru.jpg"
-# Optional add sponsors
-#    [[params.banner.sponsors]]
-#      name = "SAP"
-       # make sure file exists in ./assets/img
-#      file = "img/sap_logo.png"
-#      style = "max-width: 400px"
+    [[params.banner.sponsors]]
+    name = "SAP"
+    file = "img/sap_logo.png"
+    style = "max-width: 200px"
   [params.workshop]
     number = "22"
     title = "Data Management on New Hardware (DaMoN)"

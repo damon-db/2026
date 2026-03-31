@@ -49,7 +49,7 @@ Paper submission:  ~~February 16th, 2026~~ February 20th, 2026 (11:59pm AoE)
 
 Notification of acceptance: March 30th, 2026 (11:59pm AoE)
 
-Camera-ready copies: TBD, 2026
+Camera-ready copies: May 1st, 2026
 
 Workshop: Monday June 1st, 2026
 
