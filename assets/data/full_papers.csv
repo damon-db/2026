@@ -1,1 +1,7 @@
 title,authors,link
+"How to make Secure Storage fast for DBMSs in Intel SGXv2", Adrian Lutsch (TU Darmstadt)*; Christian Franck (TU Darmstadt); Muhammad El-Hindi (Technische Universität München); Norman May (SAP SE); Zsolt István (TU Darmstadt); Carsten Binnig (TU Darmstadt),
+"ScaleEvict: Altruistic Eviction for RDMA-Enabled Distributed Storage Engines", Till Steinert (Technische Universität München)*; Muhammad El-Hindi (Technische Universität München); Tobias Ziegler (TigerBeetle); Viktor Leis (Technische Universität München); Carsten Binnig (TU Darmstadt),
+"Efficient Parquet Parsing on FPGAs", Si Jun Kwon (TU Darmstadt)*; Zsolt István (TU Darmstadt); Daniel Ritter (SAP SE); Norman May (SAP SE); Christian Faerber (Altera Corporation),
+"Evaluating Apple Silicon for Data Processing", Alexander Beischl (Technical University of Munich)*; Mykola Morozov (Technical University of Munich); Michael Jungmair (Technical University of Munich); Thomas Neumann (Technical University of Munich); Lukas Haußmann (Technical University of Munich),
+"Compression-Aware LIKE: Matching Patterns in the FSST Domain", Calin-George Pop (Technical University of Munich)*; Adrian Riedl (Technical University of Munich); Thomas Neumann (Technical University of Munich),
+"Characterizing Multi-Host CXL.2.0: Latency, Bandwidth, and Synchronization Costs", Laurin Martins (TU Ilmenau)*; Alexander Baumstark (TU Ilmenau); Andreas Becher (TU Ilmenau); Kai-Uwe Sattler (TU Ilmenau),

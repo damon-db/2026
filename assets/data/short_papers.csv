@@ -1,1 +1,9 @@
 title,authors,link
+"Streaming with a Touch of DOM: a Lightweight Structural Index for JSON Queries", Ricardo Volker Kraft (Technical University of Munich); Mateusz Gienieczko (Technical University of Munich)*; Jana Giceva (Technical University of Munich),
+"GASP: GPU-Accelerated Shortest Path for Graph Analytics", Ian Di Dio Lavore (Politecnico di Milano); Rathijit Sen (Microsoft)*; Yuanyuan Tian (Microsoft),
+"Do GPUs Really Need New Tabular File Formats?", Jigao Luo (TU Darmstadt)*; Qi Chen (TU Darmstadt); Carsten Binnig (TU Darmstadt & DFKI),
+"BareHeap: Virtual Memory Assisted Memory Allocation for High Performance Query Processing", Marcus Müller (Technische Universität München)*; Viktor Leis (Technische Universität München),
+"Virtual-Memory Assisted Buffer Management In Tiered Memory", Yeasir Rayhan (Purdue University)*; Walid Aref (Purdue University),
+"Should I Hide My Duck in the Lake?", Jonas Dann (ETH Zürich)*; Gustavo Alonso (ETH Zürich),
+"ZARC: Re-inventing Zone Allocation for LSMs on ZNS SSD", Farhan S. Chowdhury (BUET); Shadman Saqib Eusuf (UMass Boston); Subhadeep Sarkar (Brandeis University); Tarikul Islam Papon (UMass Boston)*,
+"Let the Hardware do it: Fast Graph Query processing through FPGA-accelerated Late Materialization and Decompression", Lei Chen (Technische Universität Ilmenau)*; Alexander Baumstark (Technische Universität Ilmenau); Andreas Becher ( Technische Universität Ilmenau); Daniel Ziener (Technische Universität Ilmenau); Kai-Uwe Sattler (Technische Universität Ilmenau),

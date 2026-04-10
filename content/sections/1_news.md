@@ -6,6 +6,7 @@ hideMenu: true
 
 ## News
 
+- [Accepted papers](#accepted-papers) have been posted!
 - Camera-ready due date is: May 1st, 2026
 - Paper submission [deadline extended](#important-dates) to: February 20th, 2026 (11:59pm AoE)
 - The call for papers and the submission deadline have been posted.
