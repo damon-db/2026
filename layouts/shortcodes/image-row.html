@@ -1,0 +1,6 @@
+{{/* Bootstrap only provides gap utility classes gap-0 through gap-5. */}}
+{{ $gap := .Get "gap" | default "4" }}
+{{ $justify := .Get "justify" | default "center" }}
+<div class="image-row d-flex flex-wrap align-items-start {{ printf "gap-%s" $gap }} {{ printf "justify-content-%s" $justify }}">
+  {{ .Inner | markdownify }}
+</div>
