@@ -4,8 +4,12 @@ exampleSite/resources/_gen/
 exampleSite/assets/jsconfig.json
 exampleSite/hugo_stats.json
 
-# Created by https://www.toptal.com/developers/gitignore/api/linux,macos,windows,git,visualstudiocode,vim,go,node,hugo
-# Edit at https://www.toptal.com/developers/gitignore?templates=linux,macos,windows,git,visualstudiocode,vim,go,node,hugo
+# Created by https://www.toptal.com/developers/gitignore/api/go,git,vim,hugo,node,linux,macos,windows,visualstudiocode,direnv
+# Edit at https://www.toptal.com/developers/gitignore?templates=go,git,vim,hugo,node,linux,macos,windows,visualstudiocode,direnv
+
+### direnv ###
+.direnv
+.envrc
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
@@ -313,4 +317,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/linux,macos,windows,git,visualstudiocode,vim,go,node,hugo
+# End of https://www.toptal.com/developers/gitignore/api/go,git,vim,hugo,node,linux,macos,windows,visualstudiocode,direnv

@@ -6,6 +6,7 @@ hideMenu: true
 
 ## News
 
+- The [Workshop Program](#workshop-program) has been posted!
 - [Accepted papers](#accepted-papers) have been posted!
 - Camera-ready due date is: May 1st, 2026
 - Paper submission [deadline extended](#important-dates) to: February 20th, 2026 (11:59pm AoE)
