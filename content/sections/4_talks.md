@@ -66,6 +66,8 @@ Kwanghyun Park is an Assistant Professor in the Department of Computer Science a
 ### Transparent Huge Pages to the Rescue for In-Memory Data Processing?
 <h4 style="text-align: center;">Norman May, SAP</h4>
 
+![Portrait of Norman May](/img/norman_may.jpg)
+
 **Abstract**:
 SAP HANA is known for its high-performance in-memory processing performance, especially for mixed OLAP and OLTP workloads. Hence, it may come as a surprise that SAP HANA did not support transparent huge pages (THP) when using them promises better performance and scalability.  In the talk I will present a brief history on our journey towards supporting THP and share some challenges to overcome along the way. 
 
