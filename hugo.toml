@@ -15,6 +15,10 @@ disableKinds = ["taxonomy", ]
     name = "SAP"
     file = "img/sap_logo.png"
     style = "max-width: 200px"
+    [[params.banner.sponsors]]
+    name = "Microsoft"
+    file = "img/microsoft_logo.png"
+    style = "max-width: 350px"
   [params.workshop]
     number = "22"
     title = "Data Management on New Hardware (DaMoN)"
