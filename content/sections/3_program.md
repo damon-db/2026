@@ -6,7 +6,7 @@ theme: "damon-light"
 
 # Workshop Program
 
-## Program - Monday (Monday June 1st, 2026), Room: TBD
+## Program - Monday (Monday June 1st, 2026), Room: Scarlet 1
 
 ---
 #### 10:00-11:00 Session 1: Opening & Keynote
