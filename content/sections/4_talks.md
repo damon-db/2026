@@ -47,16 +47,20 @@ Christina Giannoula is a Tenure-Track Faculty member at the Max Planck Institute
 </details>
 
 ## Fresh Thinking Talk 2
-### Title Coming Soon
+### Query Execution Beyond the CPU
 <h4 style="text-align: center;">Kwanghyun Park, Yonsei University</h4>
 
 ![Portrait of Kwanghyun Park](/img/kwanghyun_park.jpg)
 
-**Abstract**: Coming soon
+**Abstract**:
+Modern DBMSs have long been designed around a CPU-centric assumption: query operators execute on the processor, while memory and storage passively provide data. This abstraction has been remarkably successful, but it is increasingly strained by modern workloads and hardware trends. Emerging technologies such as persistent memory, near-data processing, computational storage, heterogeneous accelerators, and CXL-based memory fabrics are changing where computation can and should occur. At the same time, AI-driven workloads such as vector search and retrieval pipelines amplify the cost of data movement, making centralized execution less attractive.
+
+In this talk, I discuss how query execution is moving beyond the CPU and becoming distributed across memory, storage, and interconnect fabrics. I will further explore how this shift challenges traditional DBMS assumptions and motivates new abstractions for execution placement, data movement optimization, topology-aware scheduling, and memory-centric query
+processing.
 
 <details>
   <summary>About the Speaker</summary>
-Kwanghyun Park is an Assistant Professor in the Department of Computer Science at Yonsei University. His research interests include systems for machine learning, instance-optimized systems, and hardware and data platform co-design. Before joining Yonsei University in 2023, he was a Senior Research Engineer at Microsoft Gray Systems Lab. He received his PhD and MSc in Computer Science from the University of Wisconsin-Madison.
+Kwanghyun Park is an Assistant Professor in the Department of Computer Science at Yonsei University, where he leads the BDAI (Big Data & AI) Lab. His research focuses on next-generation data systems spanning systems for machine learning, hardware-aware database systems, vector search and AI data infrastructure, and hardware–software co-design for emerging memory and storage architectures. His recent work explores memory-centric query processing, near-data processing, heterogeneous execution, and CXL-based AI data systems. Before joining Yonsei University in 2023, he was a Senior Research Engineer at Microsoft Gray Systems Lab, where he worked on large-scale data and ML systems for cloud platforms and enterprise workloads. He received his Ph.D. and M.Sc. in Computer Science from the University of Wisconsin–Madison.
 </details>
 
 --- 
