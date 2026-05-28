@@ -5,8 +5,9 @@ theme: "damon-light"
 ---
 
 # Accepted Papers
+Until the accepted papers are published by ACM, workshop attendees can access them through [this password-protected folder](https://tumde-my.sharepoint.com/:f:/g/personal/muhammad_el-hindi_tum_de/IgCnF3nGNfnMTYd3sUP9C4qfAaKV_oaSVB1TdUueIKmP82E?e=J19uIP).
 
-Papers available for download at [ACM portal](https://dl.acm.org/)
+Please contact the [PC Chairs](#chairs) to request the password.
 
 ## Full Papers
 {{< accepted_papers
