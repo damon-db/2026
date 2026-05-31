@@ -9,7 +9,7 @@ theme: "damon-light"
 ## Program - Monday (Monday June 1st, 2026), Room: Scarlet 1
 
 ---
-#### 10:00-11:00 Session 1: Opening & Keynote
+#### 10:00-11:00 Session 1: Opening & Keynote (Session Chair: Jana Giceva)
 
 10:00-10:05 **Opening by Workshop Organizers**
 {.px-3}
@@ -20,7 +20,7 @@ theme: "damon-light"
 ---
 #### 11:00-11:30 Coffee Break / **Poster Session**
 ---
-#### 11:30-13:00 Session 2: Accelerators
+#### 11:30-13:00 Session 2: Accelerators (Session Chair: Kwanghyun Park)
 
 11:30-12:00 Fresh Thinking Talk 1: **Towards a Programmable Data-Centric AI Stack for Processing-In-Memory Architectures**. Christina Giannoula (MPI-SWS).
 {.px-3}
@@ -40,7 +40,7 @@ theme: "damon-light"
 ---
 #### 13:00-14:30 Lunch Break
 ---
-#### 14:30-16:00 Session 3: Storage and Memory
+#### 14:30-16:00 Session 3: Storage and Memory (Session Chair: Huanchen Zhang)
 
 14:30-14:50 Sponsor Talk: **Transparent Huge Pages to the Rescue for In-Memory Data Processing?**. Norman May (SAP).
 {.px-3}
@@ -48,13 +48,13 @@ theme: "damon-light"
 14:50-15:10 **How to make Secure Storage fast for DBMSs in Intel SGXv2**. Adrian Lutsch (TU Darmstadt)*; Christian Franck (TU Darmstadt); Muhammad El-Hindi (Technische Universität München); Norman May (SAP SE); Zsolt István (TU Darmstadt); Carsten Binnig (TU Darmstadt).
 {.px-3}
 
-15:10-15:20 **ZARC: Re-Inventing Zone Allocation for LSMs on ZNS SSD**. Farhan S. Chowdhury (BUET); Shadman Saqib Eusuf (UMass Boston); Subhadeep Sarkar (Brandeis University); Tarikul Islam Papon (UMass Boston)*.
+15:10-15:20 **BareHeap: Virtual Memory Assisted Memory Allocation for High Performance Query Processing**. Marcus Müller (Technische Universität München)*; Viktor Leis (Technische Universität München).
 {.px-3}
 
 15:20-15:40 **Characterizing Multi-Host CXL.2.0: Latency, Bandwidth, and Synchronization Costs**. Laurin Martins (TU Ilmenau)*; Alexander Baumstark (TU Ilmenau); Andreas Becher (TU Ilmenau); Kai-Uwe Sattler (TU Ilmenau).
 {.px-3}
 
-15:40-15:50 **BareHeap: Virtual Memory Assisted Memory Allocation for High Performance Query Processing**. Marcus Müller (Technische Universität München)*; Viktor Leis (Technische Universität München).
+15:40-15:50 **ZARC: Re-Inventing Zone Allocation for LSMs on ZNS SSD**. Farhan S. Chowdhury (BUET); Shadman Saqib Eusuf (UMass Boston); Subhadeep Sarkar (Brandeis University); Tarikul Islam Papon (UMass Boston)*.
 {.px-3}
 
 15:50-16:00 **Virtual-Memory Assisted Buffer Management in Tiered Memory**. Yeasir Rayhan (Purdue University)*; Walid Aref (Purdue University).
@@ -63,9 +63,9 @@ theme: "damon-light"
 ---
 #### 16:00-16:30 Coffee Break / **Poster Session**
 ---
-#### 16:30-18:15 Session 4: SIMD, RDMA, I/O
+#### 16:30-18:15 Session 4: SIMD, RDMA, I/O (Session Chair: Norman May)
 
-16:30-17:00 Fresh Thinking Talk 2: **TBD**. Kwanghyun Park (Yonsei University).
+16:30-17:00 Fresh Thinking Talk 2: **Query Execution Beyond the CPU**. Kwanghyun Park (Yonsei University).
 {.px-3}
 
 17:00-17:20 **Compression-Aware LIKE: Matching Patterns in the FSST Domain**. Calin-George Pop (Technical University of Munich)*; Adrian Riedl (Technical University of Munich); Thomas Neumann (Technical University of Munich).
