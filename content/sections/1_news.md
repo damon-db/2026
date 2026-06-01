@@ -6,6 +6,7 @@ hideMenu: true
 
 ## News
 
+- Congratulations to the authors of “ScaleEvict: Altruistic Eviction for RDMA-Enabled Distributed Storage Engines”, winner of the Best Full Paper Award, and “Do GPUs Really Need New Tabular File Formats?”, winner of the Best Short Paper Award.
 - The [accepted papers](#accepted-papers) are now available to workshop attendees via a password-protected folder. Please contact the [PC Chairs](#chairs) to request access.
 - **In memoriam**: We are deeply saddened by the passing of Prof. Beng Chin Ooi, a member of the DaMoN 2026 Program Committee. We are grateful for his contributions to the database community and for his support of DaMoN. He will be greatly missed.
 - The [Workshop Program](#workshop-program) has been posted!
